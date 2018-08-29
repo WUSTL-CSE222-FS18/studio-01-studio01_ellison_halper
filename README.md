@@ -8,6 +8,9 @@ You should review all the class policies and post any questions or clarification
 
 ***Q1.0 Please acknowledge that you will review the class policies and, if necessary, ask for any clarifications by Wed, Sept. 5.  Each person should type their name below to acknowledge this request:***
 
+Lauren Ellison
+Lizzie Halper
+
 # Part 1: Choose your own IoT Adventure
 
 These will be timed activities.  Please note the timer and be sure to use your time wisely.
@@ -17,6 +20,8 @@ These will be timed activities.  Please note the timer and be sure to use your t
 Your group will be both a "Customer" and a "Designer".  First you'll prepare for your Customer role.  Browse through the "Mission" cards and select the one that interests you. You may use either the specific example on the card or be creative and try to develop another example that fits the goal given on the card. Any discussions with  Designers should not reveal the specific example you have in mind.  Try to really think about the example and how it would fit into your life as a customer. Try to build an entire story around it.  Make sure you have a clear vision in mind.
 
 ***Q1.1 Briefly describe your Mission:***
+
+
 
 ## Part 1.2: Finding a Designer/Customer (3 minutes)
 
@@ -28,13 +33,22 @@ Find another group to work with. The other group should be students who neither 
 
 ***Q1.2 Share some notes from your interview here and try to describe the "need" with a very brief description:***
 
-(6 minutes) Reverse roles. The Customers are now Designers and vice versa.  Repeat the interview process. (Designers, complete the question above in that space)
+Customers need something to help them manage their inventory.
+
+(6 minutes) Reverse roles. The Customers are now Designers and vice versa.  Repeat the interview process. (Designers, complete the question above in that space) 
 
 ## Part 1.4: Proposing solutions (8 minutes)
 
 Return to your original locations.  In this step all groups will act like Designers.  Another vital aspect of design thinking is open-minded brainstorming about potential solutions that will fulfill the Customer's needs.   Review your notes about the Customer's needs.  Use cards from the Things, Services, Human Actions, and Feedback decks to *design two (2) or more different solutions* to the Customer's needs.
 
 ***Q1.3 Briefly describe your solutions (use a list) and any strengths/weaknesses you see.***
+
+1. scale to measure weights of inventory and alert when inventory is low.
+   - Strengths: precision
+   - Weaknesses: cost
+2. Scanning system to track (database & potentially app)
+   - Strengths: cheap
+   - Weaknesses: less cool, more manual
 
 ## Part 1.5: Feedback (10 minutes total)
 
@@ -43,6 +57,10 @@ Meet with your corresponding group again. And, again, select which set will be D
 (5 minutes) Designers:  Present your solutions and get the Customers' feedback.  As a Designer you should be open to any initial reactions.  Customers: think carefully about your original "need" and try to give both pros and cons of the proposed solutions.
 
 ***Q1.4 Designers: Briefly summarize their feedback for each solution:***
+
+Future improvements:
+   database -> app -> analytics/predictions/recommendations
+Want to know when food is rotten
 
 (4 minutes): Reverse roles.  Designers: Fill in your answers to the question above.
 
@@ -54,11 +72,19 @@ In this phase everyone is thinking like a Designer.  Design thinking also relies
 
 ***Q1.5 Based on the feedback, how might you change your solution?***
 
+Future improvements:
+   database -> app -> analytics/predictions/recommendations
+Tracking expiration dates -> AI to watch food go bad
+
 ## Part 1.7 Evaluation (5 minutes)
 
 Switch back to being a Customer and thinking about the product you want and the need it should meet.  Pick three (3) Criteria cards that are most important to you and order them from most important to least important.
 
 ***Q1.6 List your three top Criteria:***
+
+1. User friendly
+1. Feasibility
+1. Market potential
 
 ## Part 1.8: More Feedback (10 minutes total)
 
@@ -68,7 +94,11 @@ Meet with your corresponding group again. And, again, select which set will be D
 
 ***Q1.7 Briefly summarize your findings as a Designer.  Is the customer happy with your work?  How could it be further improved?***
 
+Yes. Cannot be further improved
+
 ***Q1.8 Briefly summarize your findings as a Customer.  Will the proposed solution meet your needs?  Was it substantially different than what you may have initially envisioned?***
+
+Proposed solution meets our needs. It was not substatially different from what we initially envisioned
 
 (5 minutes): Reverse roles.  Designers and Customers: Fill in your answers to the question above.
 
@@ -83,12 +113,32 @@ Part of the goal of today's studio was to provide you some "menus" for:
 
 ***Q2.1 Without reviewing the cards, provide three examples of each type of card along with a brief description (try your best).  Add your answers as a sub-list for each type here:***
 - Criteria
+   1. user friendly - easy to use
+   1. market potential - easy to sell
+   1. feasibility - easy to make
 - Things
+   1. phone
+   1. headphones
+   1. watch
 - Services
+   1. playing music
+   1. opening garage door
+   1. providing information
 - Feedback
+   1. Good
+   1. Bad
+   1. Too expensive
 - Human Actions
+   1. clicking
+   1. scrolling
+   1. pushing a button
 - Missions
+   1. preventing loss
+   1. tracking
+   1. gathering information
 
 ### Contrast
 
 ***Q2.2 In Studio 0 you were supposed to evaluate three examples of IoT. In many cases the examples may not be able to be represented using the cards.  Provide some examples of cards that you think should be added to the deck, either based on the examples from Studio 0, or from this Studio, or based on your own interests.  Be sure to specify the suit (Mission, Thing, Services, Human Interactions, Feedback, and Criteria) as well as a brief description:***
+
+Mission: something to prevent kids from being left in car.
