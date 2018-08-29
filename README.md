@@ -8,7 +8,7 @@ You should review all the class policies and post any questions or clarification
 
 ***Q1.0 Please acknowledge that you will review the class policies and, if necessary, ask for any clarifications by Wed, Sept. 5.  Each person should type their name below to acknowledge this request:***
 
-Lauren Ellison
+Lauren Ellison,
 Lizzie Halper
 
 # Part 1: Choose your own IoT Adventure
